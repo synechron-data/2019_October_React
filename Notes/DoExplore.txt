@@ -1,0 +1,20 @@
+1. Error Handling and SHowing Message
+
+2. Use Promise in Service Calls
+
+3. Use Axios insted of fetch
+
+4. Learn Axios http-interceptor (fetch-interceptor)
+
+5. Change Item Status option to drop down
+
+6. Add Expiry Date using DatePicker
+
+7. Add Validations to the form (react-validations)
+
+8. Redux-saga
+
+9. React Flow
+
+10. Jest (Testing)
+ 
